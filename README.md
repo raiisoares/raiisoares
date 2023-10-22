@@ -8,6 +8,7 @@ I'm a computer science student and web developer.
 **My current stack**:
 
 - :technologist: **Programming Languages**: `Javascript`, `Typescript`, and `Java`.
-- :art: **Frontend**: `React`, using `Next.js` or `Vite`.
+- :art: **Frontend**: `React`, using `Next.js` or `Vite`, `HTML5`, `CSS`, and `styled-components`.
 - :gear: **Backend**: `Node.js`.
-- :speech_balloon: **Languages**: `PT-BR` :brazil: and `EN` :us:. 
+- :speech_balloon: **Languages**: `PT-BR` :brazil: and `EN` :us:.
+- :package: **Version code control**: `git` and `GitHub`.
