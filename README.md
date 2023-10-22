@@ -1,12 +1,13 @@
-<div aling="center" > 
-  <a href="https://github.com/raiisoares">
-  <img width="45%" height="150em" src="https://github-readme-stats.vercel.app/api?username=raiisoares&show_icons=true&theme=onedark&count_private=true"/>
-  <img width="45%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiisoares&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rai-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">       
-  <img align="center" alt="Rai-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-</div>
+# Hey there, I'm Raí Soares :zap:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Raí%20Soares-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raiisoares/)](https://www.linkedin.com/in/raiisoares/)
+[![Gmail Badge](https://img.shields.io/badge/-raisoares.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raisoares.dev@gmail.com)](mailto:raisoares.dev@gmail.com)
+
+I'm a computer science student and web developer.
+
+**My current stack**:
+
+- :technologist: **Programming Languages**: `Javascript`, `Typescript`, and `Java`.
+- :art: **Frontend**: `React`, using `Next.js` or `Vite`.
+- :gear: **Backend**: `Node.js`.
+- :speech_balloon: **Languages**: `PT-BR` :brazil: and `EN` :us:. 
