@@ -9,6 +9,6 @@ I'm a computer science student and web developer.
 
 - :technologist: **Programming Languages**: `Javascript`, `Typescript` and `Java`.
 - :art: **Frontend**: `React`, using `Next.js` or `Vite`, `HTML5`, `CSS` and `Styled-Components`.
-- :gear: **Backend**: `Node.js`, using `Express`.
+- :gear: **Backend**: `Node.js`, using `Express` and `Spring Boot`.
 - :speech_balloon: **Languages**: `PT-BR` :brazil: and `EN` :us:.
 - :package: **Version code control**: `git` and `GitHub`.
