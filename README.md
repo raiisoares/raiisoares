@@ -7,7 +7,7 @@ I'm a computer science student and web developer.
 
 **My current stack**:
 
-- :technologist: **Programming Languages**: `Javascript`, `Typescript` and `Java`.
+- :technologist: **Programming Languages**: `Javascript`, `Typescript`, `Java` and `Kotlin`.
 - :art: **Frontend**: `React`, using `Next.js` or `Vite`, `HTML5`, `CSS` and `Styled-Components`.
 - :gear: **Backend**: `Node.js`, using `Express` and `Spring Boot`.
 - :speech_balloon: **Languages**: `PT-BR` :brazil: and `EN` :us:.
