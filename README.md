@@ -4,11 +4,11 @@
 I'm a computer science student and web developer.
 
 I usually work with: 
-  * `Typescript`, `Java` and `Kotlin`.
-  * `React`, `Next.js` and `Tailwind`.
-  * `Node.js` and `Spring Boot`.
-  * `PostgreSQL` and `MySQL`.
-  * `Jest` and `JUnit`.
+  * `Typescript` | `Java` | `Kotlin`.
+  * `React` | `Next.js` | `Tailwind`.
+  * `Node.js` | `Spring Boot`.
+  * `PostgreSQL` | `MySQL`.
+  * `Jest` | `JUnit`.
     
 Feel free to check out some of my personal projects below :v:
 
