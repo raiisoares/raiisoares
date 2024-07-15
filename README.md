@@ -4,7 +4,7 @@
 I'm a computer science student and web developer.
 
 I usually work with: 
-  * `Typescript` | `Java` | `Kotlin`
+  * `Typescript` | `Java`
   * `React` | `Next.js` | `Tailwind`
   * `Node.js` | `Spring Boot`
   * `PostgreSQL` | `MySQL`
